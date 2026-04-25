@@ -1,7 +1,6 @@
 {
-  "cleanUrls": true,
   "rewrites": [
-    { "source": "/j/:code", "destination": "/j/index.html" }
+    { "source": "/j/(.*)", "destination": "/j/index.html" }
   ],
   "headers": [
     {
