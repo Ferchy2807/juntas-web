@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.juntas.app",
+      "sha256_cert_fingerprints": [
+        "4F:93:D1:88:78:30:69:1C:5C:E1:89:6E:B5:C7:15:3E:AC:81:8A:1A:A1:1B:A7:D4:4C:58:50:50:11:E3:B7:38"
+      ]
+    }
+  }
+]
