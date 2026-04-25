@@ -1,6 +1,6 @@
 {
   "rewrites": [
-    { "source": "/j/(.*)", "destination": "/j/index.html" }
+    { "source": "/j/:code", "destination": "/j" }
   ],
   "headers": [
     {
