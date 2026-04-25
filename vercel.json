@@ -1,6 +1,6 @@
 {
   "rewrites": [
-    { "source": "/j/:code", "destination": "/j" }
+    { "source": "/j/:code", "destination": "/invite.html" }
   ],
   "headers": [
     {
